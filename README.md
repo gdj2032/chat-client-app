@@ -1,2 +1,2 @@
-# chat-client-app
-简易moblie聊天界面
+# rn-tsx-demo
+react native tsx demo
